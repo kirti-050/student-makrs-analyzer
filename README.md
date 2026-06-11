@@ -65,3 +65,9 @@ This project helped me learn:
 * Statistical Functions
 * Data Filtering
 * Performance Analysis
+
+Version 2 Features:
+- 2D NumPy Arrays
+- Subject-wise Analysis
+- Student-wise Analysis
+- Performance Filtering
